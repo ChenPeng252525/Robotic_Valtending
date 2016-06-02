@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://www.staubli.com/robotics/VAL3/Project/3">
+  <Parameters version="s7.7" stackSize="5000" millimeterUnit="true" />
+  <Programs>
+    <Program file="changeSession.pgx" />
+    <Program file="getListSession.pgx" />
+    <Program file="getPathInstr.pgx" />
+    <Program file="getSession.pgx" />
+    <Program file="getTool.pgx" />
+  </Programs>
+  <Database>
+    <Data file="saveData.dtx" />
+  </Database>
+  <Libraries />
+  <Types>
+    <Type name="ToolItem" path="Disk://kernel/template/ToolItem/ToolItem.pjx" />
+    <Type name="Instruction" path="Disk://kernel/template/Instruction/Instruction.pjx" />
+    <Type name="FrameItem" path="Disk://kernel/template/FrameItem/FrameItem.pjx" />
+  </Types>
+</Project>

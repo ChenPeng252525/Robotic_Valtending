@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<TOPICSLIST>
+	<TOPIC Name = "TOPIC1_A" Card = "1" Channel = "0" Equipement = "0" RefreshPeriod = "200" Actif = "1">
+		<MODULE Tag_name_root = "BLOCKA" IDModule = "DP_SLAVE" InputSize = "8" OutputSize = "8">
+			<ITEM Name = "BLOCKA_IX0" Syntaxe = "%I0" Offset = "0"/>
+			<ITEM Name = "BLOCKA_IX1" Syntaxe = "%I1" Offset = "1"/>
+			<ITEM Name = "BLOCKA_IX2" Syntaxe = "%I2" Offset = "2"/>
+			<ITEM Name = "BLOCKA_IX3" Syntaxe = "%I3" Offset = "3"/>
+			<ITEM Name = "BLOCKA_IX4" Syntaxe = "%I4" Offset = "4"/>
+			<ITEM Name = "BLOCKA_IX5" Syntaxe = "%I5" Offset = "5"/>
+			<ITEM Name = "BLOCKA_IX6" Syntaxe = "%I6" Offset = "6"/>
+			<ITEM Name = "BLOCKA_IX7" Syntaxe = "%I7" Offset = "7"/>
+			<ITEM Name = "BLOCKA_QX0" Syntaxe = "%Q0" Offset = "0"/>
+			<ITEM Name = "BLOCKA_QX1" Syntaxe = "%Q1" Offset = "1"/>
+			<ITEM Name = "BLOCKA_QX2" Syntaxe = "%Q2" Offset = "2"/>
+			<ITEM Name = "BLOCKA_QX3" Syntaxe = "%Q3" Offset = "3"/>
+			<ITEM Name = "BLOCKA_QX4" Syntaxe = "%Q4" Offset = "4"/>
+			<ITEM Name = "BLOCKA_QX5" Syntaxe = "%Q5" Offset = "5"/>
+			<ITEM Name = "BLOCKA_QX6" Syntaxe = "%Q6" Offset = "6"/>
+			<ITEM Name = "BLOCKA_QX7" Syntaxe = "%Q7" Offset = "7"/>
+		</MODULE>
+	</TOPIC>
+</TOPICSLIST>

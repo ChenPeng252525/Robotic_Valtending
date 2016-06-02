@@ -1,0 +1,2 @@
+Start Logger Thursday, May 26, 2016 At 08:58                                ** count:0001  @ line:0059 file:AppDebug.cpp 
+End Logger Thursday, May 26, 2016 At 09:11                                  ** count:0001  @ line:0131 file:AppDebug.cpp 

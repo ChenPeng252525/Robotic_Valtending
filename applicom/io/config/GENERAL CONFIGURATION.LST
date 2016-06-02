@@ -1,0 +1,19 @@
++---------------------------------------------------------------+
+| General configuration listing                                 |
++---------------------------------------------------------------+
+| COMPANY = Molex
+| DATE    = Thursday, May 26, 2016 At 09:32
+| VERSION = 3.0.0
+| CONFIGURATION NAME = 20160525_DALIANGEER
+| BOARD LOCATION = LAN TCP/IP
++---------------------------------------------------------------+
+
+  NUMBER OF BOARDS = 1
+
+  <CONFIGURATION DOWNLOADED BY LAN TCP/IP>
+
+  <BOARD_1>
+    TYPE   = PCU-DPIO
+
+    <CHANNEL_0>
+      Profibus, Slave
