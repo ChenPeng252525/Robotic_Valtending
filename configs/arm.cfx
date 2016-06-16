@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <arm>
-  <String name="arm" value="tx200-S3" />
+  <String name="arm" value="tx200l-S2" />
   <String name="tuning" value="" />
   <String name="mount" value="floor" />
   <FloatArray name="zeroOffset">
